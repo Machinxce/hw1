@@ -1,0 +1,20 @@
+/*this turns the pages color to whitesmoke*/
+body {
+    background-color: whitesmoke;
+}
+h2 {/*h2 color turned red*/
+color: red;
+}
+
+h3 {
+  color: blue;
+}
+p {
+    font-family: serif;
+    font-size: 20px;
+}
+
+/*added padding*/
+a.indent {
+    padding-right: 20em
+}
